@@ -1,0 +1,24 @@
+h4 {padding: 0; margin: 0;}
+
+.lightgraybg {
+    background-color: #f7f7f7;
+}
+
+.lightgrayborder {
+    border-color: #f7f7f7;
+}
+
+button[type=submit]{
+    margin: 2px;
+}
+
+.alert {
+    padding: 10px 0 10px 15px !important;
+    margin: 1rem 0!important;
+}
+.very-small-txt {
+    font-size: 12px;
+}
+.fs-7 {
+    font-size: 13px;
+}
